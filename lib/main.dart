@@ -13,7 +13,7 @@ import 'core/utils/custom_error_screen.dart';
 import 'features/auth/presentation/screens/login.dart';
 
 import 'features/home/presentation/widgets/mainbar.dart';
-
+// add
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   PaintingBinding.instance.imageCache.maximumSize = 1000;
