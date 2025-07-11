@@ -8,7 +8,7 @@ import '../../../../core/utils/show_snack_bar.dart';
 import '../../../home/presentation/widgets/custom_txt_btn.dart';
 import '../../../home/presentation/widgets/custom_txt_field.dart';
 import '../../../home/presentation/widgets/custompass_txt_fiels.dart';
-
+// Osama Abdelrahman pull request
 class SignupScreen extends ConsumerStatefulWidget {
   const SignupScreen({super.key});
 
